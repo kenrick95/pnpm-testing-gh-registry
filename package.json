@@ -2,7 +2,7 @@
   "name": "@kenrick95/pnpm-testing-gh-registry",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kenrick95/pnpm-testing-gh-registry.git"
+    "url": "https://github.com/kenrick95/pnpm-testing-gh-registry.git"
   },
   "version": "1.0.0",
   "main": "src/index.js"
